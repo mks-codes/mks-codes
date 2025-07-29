@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Magdum Shaikh (mks-codes)
 
-🔍 Aspiring Data Scientist | Passionate about turning data into insights  
+# Aspiring Data Scientist | Passionate about turning data into insights  
 📊 Currently learning: Machine Learning, Deep Learning, and NLP  
 🧠 Exploring tools like Scikit-learn, TensorFlow, Pandas, and more
 
