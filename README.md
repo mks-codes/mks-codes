@@ -9,7 +9,6 @@ Currently exploring Machine Learning, Deep Learning, and real-world data problem
 
 ####  Programming & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ####  Data Analysis & Manipulation
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -19,12 +18,9 @@ Currently exploring Machine Learning, Deep Learning, and real-world data problem
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F7B?style=flat)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ####  Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B23?style=flat)
-![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat)
 
 ####  Deep Learning & Neural Networks
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -59,17 +55,3 @@ Currently exploring Machine Learning, Deep Learning, and real-world data problem
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4584b6?style=flat&logo=googlecloud)
 
 
----
-
-###  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mks-codes&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mks-codes&layout=compact&theme=radical)
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
