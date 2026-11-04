@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=🚀+Startup+Founder;📱+Flutter+%26+Dart+Developer;🐍+Python+%26+Django+Developer;🤖+AI+%7C+RAG+%7C+LangChain+Developer;💡+Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
 </p>
+<p align="center">
+  <strong>Building Innovative Products | Developing Scalable Solutions | Exploring AI</strong>
+</p>
 
 ### 🚀 Startup Founder | Full-Stack Developer | AI & Mobile App Developer
 
