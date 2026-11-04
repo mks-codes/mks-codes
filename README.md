@@ -1,31 +1,5 @@
 # 👋 Hi, I'm Magdum Shaikh (mks-codes)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=🚀+Startup+Founder;📱+Flutter+%26+Dart+Developer;🐍+Python+%26+Django+Developer;🤖+AI+%7C+RAG+%7C+LangChain+Developer;💡+Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>Building Innovative Products | Developing Scalable Solutions | Exploring AI</strong>
-</p>
-<h2 align="center">🐍 My GitHub Contributions</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mks-codes/mks-codes/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mks-codes/mks-codes/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/mks-codes/mks-codes/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
 
 ### 🚀 Startup Founder | Full-Stack Developer | AI & Mobile App Developer
 
